@@ -55,7 +55,7 @@ VaR at 99.99% Confidence: $6,169.21
 
 Bitcoin Time Series Forecast
 ------------
-Forecast BTC price using 1 year of historical prices using facebook prophet using a monthly cycle.
+Forecast BTC price with 1 year of historical prices using facebook prophet and a monthly cycle.
 
 ![Screenshot](timeseries.png)
 ```
